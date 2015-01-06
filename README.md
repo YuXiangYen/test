@@ -8,6 +8,7 @@ git add file #提交要變更的檔案
 git commit #提交版本變更加上參數-m可以不用進編輯器寫commit log
 git push #將本地的版本變更提交到remote server (github)
 git pull #將remote server的版本變更拉到本地整合
+git clone #將remote server的git複製一份下來 (ps:clone是複製體)
 ```
 # Bootstrap是什麼？
 
