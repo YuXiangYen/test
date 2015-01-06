@@ -12,8 +12,8 @@ git pull #將remote server的版本變更拉到本地整合
 # Bootstrap是什麼？
 
 待研究
-[官方網站]　(http://getbootstrap.com/)
+[官方網站](http://getbootstrap.com/)
 
 # 這個檔案怎麼寫？
-- [Mastering Makrdown] (https://guides.github.com/features/mastering-markdown/)
-- [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Mastering Makrdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
