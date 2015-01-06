@@ -31,3 +31,6 @@ mkdir #創建目錄
 history #查看輸入過的指令
 man #查詢這個指令可以作什麼
 ```
+
+
+hello git world.
