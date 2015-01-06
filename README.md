@@ -24,6 +24,7 @@ git clone #將remote server的git複製一份下來 (ps:clone是複製體)
 ```bash
 cd path #path改為要到的目錄(位置可以是相對或絕對)
 cd .. #回到上一層目錄
+cd ~ #回到家目錄
 ls #列出當前目錄有哪些檔案
 ls -alh #更詳細的當前檔案清單
 mkdir #創建目錄
